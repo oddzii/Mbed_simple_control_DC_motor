@@ -63,7 +63,7 @@ int main(){
     float userInput;
     float x;   
     do{ 
-        printf("Enter Speed of motor (-255.0 to 255.0)\r\n");
+        printf("Enter Speed of motor (-255 to 255)\r\n");
         flag = scanf("%f", &userInput);
     }while(flag == EOF);
     x = userInput/255 ;
