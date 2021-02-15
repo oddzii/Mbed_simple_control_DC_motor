@@ -12,7 +12,7 @@ A program that controls motor speed using PWM and read encoder. Adjust the speed
   255 Clockwise
 ```
 And You can pause and change direction just push USER_BUTTON (PC_13).
-
+![nucleo_f411re_arduino](https://user-images.githubusercontent.com/68624655/107956031-22586b00-6fd1-11eb-9858-474158be8f40.png)
 The encoder start count form 0 to 32767 (Clockwise) when runout increase from -32767.
 
 In the same. start count form 0 to -32767 (Counterclockwise) when runout decrease from 32767.
