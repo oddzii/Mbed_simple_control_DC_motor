@@ -13,8 +13,9 @@ A program that controls motor speed using PWM and read encoder. Adjust the speed
 ```
 And You can pause and change direction just push USER_BUTTON (PC_13).
 
-The encoder start count form 0 to 32767 (Clockwise) when runout increase from -32767 .
-In the same. start count form 0 to -32767 (Counterclockwise) when runout decrease from 32767 .
+The encoder start count form 0 to 32767 (Clockwise) when runout increase from -32767.
+
+In the same. start count form 0 to -32767 (Counterclockwise) when runout decrease from 32767.
 
 # System Components
 1. NucleoF411RE
